@@ -1,0 +1,1 @@
+pyuic5 E:/git/python/Calculator/calc_about_mod.ui -o  E:/git/python/Calculator/calc_about_mod.py

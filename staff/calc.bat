@@ -1,0 +1,1 @@
+pyuic5 E:/git/python/Calculator/calc.ui -o  E:/git/python/Calculator/calc.py
